@@ -1,4 +1,4 @@
-# 🪵 Terra & Hearth
+# Terra & Hearth
 
 ### *Seasonal Kitchen & Hearth Bar*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎨 Visual Identity & Brand Philosophy
+## Visual Identity & Brand Philosophy
 
 The digital identity of Terra & Hearth mirrors its physical dining room: tactile, warm, intentional, and rustic yet refined. It utilizes a carefully curated aesthetic to provide visitors with a sense of the restaurant's live-fire cooking and connection to the Earth:
 
@@ -25,7 +25,7 @@ The digital identity of Terra & Hearth mirrors its physical dining room: tactile
 
 ---
 
-## ✨ Features
+## Features
 
 Terra & Hearth is more than a simple restaurant landing page; it is a full Single-Page Application (SPA) designed to cover every touchpoint of a modern restaurant experience:
 
@@ -55,7 +55,7 @@ Terra & Hearth is more than a simple restaurant landing page; it is a full Singl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Frontend Library:** React 19 (leveraging modern component structures and state hooks).
 *   **Language:** TypeScript (fully typed interfaces for menu items, reservation formats, events, and gallery items).
@@ -66,7 +66,7 @@ Terra & Hearth is more than a simple restaurant landing page; it is a full Singl
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 terra-and-hearth/
@@ -98,7 +98,7 @@ terra-and-hearth/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 Ensure you have **Node.js** (v18.0.0 or higher) and **npm** installed on your machine.
@@ -141,11 +141,11 @@ npm run clean
 
 ---
 
-## 🌾 Sourcing Acknowledgement
+## Sourcing Acknowledgement
 
 All ingredients served in spirit at Terra & Hearth are sourced from independent growers, sustainable ranches, and wild foragers of Marin County and the greater Northern California region. This digital project is dedicated to the craftsmen, winemakers, and soil stewards who keep live-fire traditions alive.
 
 ---
 
-## 📄 License
+## License
 This project is private and proprietary. All rights reserved.
